@@ -12,3 +12,9 @@ The calculator will be able to:
 <br> 3. Multiply two integers
 <br> 4. Divide two integers
 <br> 5. Apply the modulo operator on two integers
+
+## Question 3
+#### Build A Droid
+<br> I've set up a robot workshop to build some droids. 
+
+<br> I defined the state and behavior of the droids using instance fields and methods.
