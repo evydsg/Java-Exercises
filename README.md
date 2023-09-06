@@ -33,3 +33,7 @@ Car Loan Amount: The total amount of the car loan that the user wishes to take.
 <br> 2. Length of the Loan: The number of years over which the car loan will be repaid.
 
 <br> 3. Down Payment: The initial payment made by the user when purchasing the car.
+
+## Question 5
+#### Exploring Continents and Cities with Java
+Planet Earth is a remarkable place with diverse continents, each having its own unique features and cultures. In this project, I've created a Java program that allows us to explore these continents and find out about their largest cities. The program takes an integer input and prints out the corresponding continent and its largest city.
